@@ -24,7 +24,7 @@ Me gusta construir interfaces claras y conectarlas a APIs reales.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,java,mysql,wordpress,git,github&theme=dark" alt="Tecnologías" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,java,php,go,mysql,docker,aws,wordpress,git,github&theme=dark" alt="Tecnologías" />
 
 </div>
 
@@ -32,7 +32,11 @@ Me gusta construir interfaces claras y conectarlas a APIs reales.
 | :-- | :-- |
 | **Frontend** | Next.js · React · TypeScript · JavaScript · HTML · Tailwind CSS |
 | **Datos del servidor** | TanStack Query · cookies de sesión (HttpOnly) · SSE |
-| **Otros** | Java · MySQL · WordPress · Shopify |
+| **Backend** | Java · PHP · MySQL |
+| **CMS y e-commerce** | WordPress · Shopify |
+| **Infraestructura** | Docker |
+| **IA** | Desarrollo con agentes de IA |
+| **Nociones básicas** | Go, para integrar el frontend con la API · AWS |
 | **Herramientas** | Git y GitHub · npm |
 
 ---
